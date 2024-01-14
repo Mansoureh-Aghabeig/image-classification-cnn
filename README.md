@@ -1,2 +1,2 @@
 # image-classification-cnn
-verview, objectives, and results.
+overview, objectives, and results.
